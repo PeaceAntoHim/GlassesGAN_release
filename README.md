@@ -16,9 +16,8 @@
 </p>
 
 ## Description   
-Official Implementation of "<a href="https://arxiv.org/abs/2210.14145">GlassesGAN: Eyewear Personalization using Synthetic Appearance Discovery and Targeted Subspace Modeling</a>" paper for both training and evaluation. 
+Official Implementation of "<a href="https://arxiv.org/abs/2210.14145">GlassesGAN: Eyewear Personalization using Synthetic Appearance Discovery and Targeted Subspace Modeling</a>" paper. 
   
-**Training code coming soon!**
 
 ## Acknowledgments
 This code borrows heavily from [encoder4editing](https://github.com/omertov/encoder4editing) and
